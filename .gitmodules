@@ -1,0 +1,6 @@
+[submodule "alignment-nf-master"]
+	path = alignment-nf-master
+	url = https://github.com/loobasstik/alignment-nf-master.git
+[submodule "RNAseq-nf-master"]
+	path = RNAseq-nf-master
+	url = https://github.com/loobasstik/RNAseq-nf-master.git
